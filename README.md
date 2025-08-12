@@ -34,7 +34,6 @@ This application is a great example of a practical computer vision project that 
 - Step 1: Clone the Repository
 First, clone this repository to your local machine:
 https://github.com/hrithikvinayakr/SleepSensor
-cd eye-monitor
 
 - Step 2: Set up the Virtual Environment
 It's recommended to work within a virtual environment.
